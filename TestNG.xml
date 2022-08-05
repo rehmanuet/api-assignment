@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="API Testing Suite" verbose="1" parallel="methods">
+    <listeners>
+        <listener class-name="utils.TestListener"/>
+    </listeners>
+    <test name="RestAssured-Java-Assignment" thread-count="10">
+        <classes>
+            <class name="validators.UsersTest"/>
+
+        </classes>
+    </test>
+</suite>
