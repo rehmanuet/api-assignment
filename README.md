@@ -1,4 +1,5 @@
 # RestAssured | TestNG | CircleCI | ExtentReport
+<sup>Live Build Status:</sup><br />[![CircleCI](https://dl.circleci.com/status-badge/img/gh/rehmanuet/api-assignment/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/rehmanuet/api-assignment/tree/main) </br>
 
 Introduction:
 ---------------
